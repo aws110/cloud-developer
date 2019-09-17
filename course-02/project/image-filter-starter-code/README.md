@@ -2,7 +2,12 @@
 
 ## Tasks
 
-### Setup Node Enviornment
+### Links for project submission
+
+EB_URL root: http://udagram-simonar-project-2-dev.ca-central-1.elasticbeanstalk.com/
+EB_URL filtered image: http://udagram-simonar-project-2-dev.ca-central-1.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
+
+### Setup Node Environment
 
 You'll need to create a new node server. Open a new terminal within the project directory and run:
 
