@@ -4,6 +4,8 @@
 
 ### Links for project submission
 
+**These links no longer work, must use application on local server**
+
 EB_URL root: http://udagram-simonar-project-2-dev.ca-central-1.elasticbeanstalk.com/
 
 EB_URL filtered image: http://udagram-simonar-project-2-dev.ca-central-1.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
