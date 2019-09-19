@@ -66,6 +66,8 @@ router.post('/login', async (req: Request, res: Response) => {
     }
 
     const user = await User.findByPk(email);
+    console.log(user);
+    console.log(User);
     // check that user exists
     if(!user) {
         return res.status(401).send({ auth: false, message: 'Unauthorized' });
